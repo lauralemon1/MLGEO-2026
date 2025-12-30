@@ -1,6 +1,3 @@
-# ESS 469/569: Machine Learning for the Geosciences
-
----
 
 Instructor
 : Akshay Mehra
@@ -14,13 +11,11 @@ Office
 Office hours 
 : *TBA*
 
-Class times and
-locations
+Class times and locations
 : Lectures are on Mondays, Wednesdays, and Fridays from 13:30 to
 14:50 in *TBA*
 
-Teaching
-assistant
+Teaching assistant
 : *TBA*
 
 ---
