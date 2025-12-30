@@ -32,7 +32,7 @@ Teaching assistant
 | Wednesday, January 7   | Setting up a programming environment & best practices for software development.       |
 | Friday, January 9      | [Student introductions](assignments/introductions.md).      |
 | *Week 2*               |       |
-| Monday, January 12     |       |
+| Monday, January 12     | Data types.      |
 | Wednesday, January 14  |       |
 | Friday, January 16     |       |
 | *Week 3*               |       |
