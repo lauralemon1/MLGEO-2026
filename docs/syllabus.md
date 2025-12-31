@@ -1,5 +1,5 @@
 ---
-layout: spec
+layout: default
 title: Syllabus
 ---
 

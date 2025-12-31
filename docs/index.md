@@ -1,4 +1,4 @@
 ---
-layout: spec
+layout: default
 title: ESS 469/569
 ---
