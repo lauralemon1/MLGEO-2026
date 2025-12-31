@@ -1,5 +1,6 @@
 ---
-layout: default
-title: "Assignment: Student introductions"
+title: "Student Introductions"
 ---
+
+# Student Introductions
 
