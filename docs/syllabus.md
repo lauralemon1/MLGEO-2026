@@ -1,3 +1,8 @@
+---
+layout: spec
+---
+
+
 ## Logistics
 
 Instructor

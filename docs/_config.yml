@@ -1,12 +1,14 @@
 title: "Machine Learning for the Geosciences: Winter 2026"
 description: Course materials for the Winter 2026 iteration of ESS 469/569.
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: eecs485staff/primer-spec
 plugins:
-- jekyll-remote-theme
-navigation:
-  - name: Home
-    link: /
-  - name: Syllabus
-    link: /syllabus
-  - name: Assignments
-    link: /assignments/
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jemoji
+kramdown:
+  input: GFM
+readme_index:
+  remove_originals: true
+  with_frontmatter: true

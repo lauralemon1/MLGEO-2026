@@ -1,5 +1,5 @@
 ---
-layout: default
-title: Assignment: Student introductions
+layout: spec
+title: "Assignment: Student introductions"
 ---
 
