@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESS 469/569 on Machine Learning for the Geosciences</title>
-    <link>http://localhost:55516/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in ESS 469/569 on Machine Learning for the Geosciences</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55516/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Student introductions</title>
-      <link>http://localhost:55516/assignments/introductions/</link>
+      <title>01 | Student introductions</title>
+      <link>http://localhost:1313/assignments/introductions/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55516/assignments/introductions/</guid>
-      <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;h2 id=&#34;deadline&#34;&gt;Deadline&lt;/h2&gt;&#xA;&lt;p&gt;You should fill out your slides by &lt;u&gt;&lt;strong&gt;9:00 AM on Friday, January 9&lt;/strong&gt;&lt;/u&gt;. You will present your slides (strictly timed!) in class that day.&lt;/p&gt;&#xA;&lt;h2 id=&#34;follow-up&#34;&gt;Follow up&lt;/h2&gt;&#xA;&lt;p&gt;After everyone presents on Friday,&lt;/p&gt;</description>
+      <guid>http://localhost:1313/assignments/introductions/</guid>
+      <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;In order to develop collaborations and, ultimately, assemble groups for the final project, it is important to know something about your fellow students.&lt;/p&gt;&#xA;&lt;p&gt;For this assignment, you will assemble &lt;strong&gt;up to two slides&lt;/strong&gt; that tell us:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Your name.&lt;/li&gt;&#xA;&lt;li&gt;Your department.&lt;/li&gt;&#xA;&lt;li&gt;An aspect of the geosciences that especially interests you.&lt;/li&gt;&#xA;&lt;li&gt;Your long-term goals.&lt;/li&gt;&#xA;&lt;li&gt;Experiences you may have with AI/ML.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;You will have exactly one minute to present your slides to the class.&lt;/strong&gt; I will &lt;em&gt;strictly&lt;/em&gt; enforce this time limit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Syllabus</title>
-      <link>http://localhost:55516/syllabus/</link>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55516/syllabus/</guid>
-      <description>&lt;h2 id=&#34;logistics&#34;&gt;Logistics&lt;/h2&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;Instructor&lt;/dt&gt;&#xA;&lt;dd&gt;Akshay Mehra&lt;/dd&gt;&#xA;&lt;dt&gt;Email&lt;/dt&gt;&#xA;&lt;dd&gt;akmehra [at] uw.edu&lt;/dd&gt;&#xA;&lt;dt&gt;Office&lt;/dt&gt;&#xA;&lt;dd&gt;JHN 245&lt;/dd&gt;&#xA;&lt;dt&gt;Office hours&lt;/dt&gt;&#xA;&lt;dd&gt;&lt;em&gt;TBA&lt;/em&gt;&lt;/dd&gt;&#xA;&lt;dt&gt;Class times and locations&lt;/dt&gt;&#xA;&lt;dd&gt;Lectures are on Mondays, Wednesdays, and Fridays from 13:30 to&#xA;14:50 in &lt;em&gt;TBA&lt;/em&gt;&lt;/dd&gt;&#xA;&lt;dt&gt;Teaching assistant&lt;/dt&gt;&#xA;&lt;dd&gt;&lt;em&gt;TBA&lt;/em&gt;&lt;/dd&gt;&#xA;&lt;/dl&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) and machine learning (ML) are likely to &amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;&#xA;&lt;p&gt;I have designed this course to teach you how to &lt;em&gt;think about the use of AI/ML for discipline-specific applications&lt;/em&gt;. By the end of the quarter, you will be able to:&lt;/p&gt;</description>
+      <link>http://localhost:1313/syllabus/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/syllabus/</guid>
+      <description>&lt;h2 id=&#34;logistics&#34;&gt;Logistics&lt;/h2&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;Instructor&lt;/dt&gt;&#xA;&lt;dd&gt;Akshay Mehra&lt;/dd&gt;&#xA;&lt;dt&gt;Email&lt;/dt&gt;&#xA;&lt;dd&gt;akmehra [at] uw.edu&lt;/dd&gt;&#xA;&lt;dt&gt;Office&lt;/dt&gt;&#xA;&lt;dd&gt;JHN 245&lt;/dd&gt;&#xA;&lt;dt&gt;Office hours&lt;/dt&gt;&#xA;&lt;dd&gt;&lt;em&gt;TBA&lt;/em&gt;&lt;/dd&gt;&#xA;&lt;dt&gt;Class times and locations&lt;/dt&gt;&#xA;&lt;dd&gt;Lectures are on Mondays, Wednesdays, and Fridays from 13:30 to&#xA;14:50 in JHN 111.&lt;/dd&gt;&#xA;&lt;dt&gt;Teaching assistant&lt;/dt&gt;&#xA;&lt;dd&gt;&lt;em&gt;TBA&lt;/em&gt;&lt;/dd&gt;&#xA;&lt;/dl&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Given the geosciences&amp;rsquo; central focus on \ul{evaluating Earth data}, artificial intelligence (AI) and machine learning (ML) is likely become ubiquitous across &lt;em&gt;all&lt;/em&gt; sub-disciplines of the field. Therefore, it is important for geoscientists (of all stripes!) to figure out how to:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
