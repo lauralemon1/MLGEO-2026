@@ -27,49 +27,121 @@ Teaching assistant
 
 ## Description
 
+Artificial intelligence (AI) and machine learning (ML) are likely to ...
+
 ## Objectives
+
+I have designed this course to teach you how to *think about the use of AI/ML for discipline-specific applications*. By the end of the quarter, you will be able to:
+
+1. **Determine the correct approach for the question you would like to answer.** 
+
+    *If, for example, a PCA provides enough separability to answer a given question, there is no need to build a whole Random Forest classifier (i.e., your goal **should not** be to find the most complex approach to your **problem******).*
+
+2. **Compile, clean, and characterize data so that you can run it through your AI/ML application of choice.**
+
+3. **Interpret model outputs and soberly assess uncertainties and limitations.** 
+   
+    *Too many people give breathless talks about the incredible accuracy of their models without appropriately benchmarking or assessing limitations. It is critical that you understand what your AI/ML implementations can (and cannot!) do.*
+
+4. **Communicate your AI/ML work in a clear and engaging manner.**
+
+Beyond these shared objectives, there are several 469- and 569-specific goals:
+
+As a student in **469**, you will:
+
+As a student in **569**, you will:
+
+1. **Lead a team implementing an AI/ML application.**
+2. 
+
+## Prerequisites
+
+MATH 207 and MATH 208, or MATH 307 or 308, or AMATH 351 or 352, CS160 or CS163, *or* permission from the instructor.
 
 ## Schedule
 
 | Week | Date                   | Topic |
 |------|------------------------|-------|
-| 1    | Monday,  January 5      | An introduction to the course. <br /> *Assignment: [Introduction slides](/assignments/introductions).*    |
+| 1    | Monday,  January 5     | An introduction to the course. <br /> *Project assignment: [Introduction slides](/assignments/introductions).*    |
 |      | Wednesday, January 7   | Setting up a programming ecosystem and best practices for software development.       |
-|      | Friday, January 9      | Student introductions.      |
-| 2    | Monday, January 12     | Data: Types, formats, and availability.  <br /> *Assignment: Setting up a project question.*      |
+|      | Friday, January 9      | **Student introductions.**      |
+| 2    | Monday, January 12     | Data: Types, formats, and availability.  <br /> *Project assignment: Setting up a question.*      |
 |      | Wednesday, January 14  | Data: Access, storage, and management.      |
-|      | Friday, January 16     | Project presentations: Questions and associated data sources.     |
+|      | Friday, January 16     | **Project presentations: Questions and associated data sources.** |
 | 3    | Monday, January 19     | *No class on account of Martin Luther King Jr. Day.* |
-|      | Wednesday, January 21  | Characterizing data (including visualization).      |
-|      | Friday, January 23     | Dimensional reduction (e.g., via cross-correlations and PCA).      |
-| 4    | Monday, January 26     | Clustering      |
-|      | Wednesday, January 28  |       |
-|      | Friday, January 30     | Project presentations:        |
-| 5    | Monday, February 2     |       |
-|      | Wednesday, February 4  |       |
-|      | Friday, February 6     |       |
-| 6    | Monday, February 9     |       |
-|      | Wednesday, February 11 |       |
-|      | Friday, February 13    |       |
-| 7    | Monday, February 16    |       |
-|      | Wednesday, February 18 |       |
-|      | Friday, February 20    |       |
-| 8    | Monday, February 23    |       |
-|      | Wednesday, February 25 |       |
-|      | Friday, February 27    |       |
-| 9    | Monday, March 2        |       |
-|      | Wednesday, March 4     |       |
-|      | Friday, March 6        |       |
-| 10   | Monday, March 9        |       |
-|      | Wednesday, March 11    | Final presentations |
-|      | Friday, March 13       | Final presentations |
+|      | Wednesday, January 21  | Characterizing data (including statistical properties and visualization). <br /> *Project assignment: Exploring available data.* |
+|      | Friday, January 23     | Filtering and resampling. |
+| 4    | Monday, January 26     | Dimensional reduction (e.g., via cross-correlations and PCA).     |
+|      | Wednesday, January 28  | Fundamental concepts in AI/ML.  |
+|      | Friday, January 30     | **Project presentations: Data exploration.** |
+| 5    | Monday, February 2     | Clustering (e.g., k-means). *Project assignment: Outlining an AI/ML approach.* |
+|      | Wednesday, February 4  | Classification (both binary and multiclass).      |
+|      | Friday, February 6     | Random forests and ensemble learning.     |
+| 6    | Monday, February 9     | Logistic regression and an introduction to gradient descent.      |
+|      | Wednesday, February 11 | Model training.      |
+|      | Friday, February 13    | **Project presentations: AI/ML implementation plan.**  |
+| 7    | Monday, February 16    | The perceptron. <br /> *Project assignment: First complete draft.** |
+|      | Wednesday, February 18 | An introduction to neural networks. |
+|      | Friday, February 20    | Convolutional neural networks.     |
+| 8    | Monday, February 23    | Recurrent neural networks.        |
+|      | Wednesday, February 25 | Physics-informed neural networks.      |
+|      | Friday, February 27    | **Project presentations: The elevator pitch.**      |
+| 9    | Monday, March 2        | Evaluating machine learning performance.      |
+|      | Wednesday, March 4     | Assembling a machine learning application from start to finish (including transfer learning).      |
+|      | Friday, March 6        | Large language models.      |
+| 10   | Monday, March 9        | Foundation models. |
+|      | Wednesday, March 11    | **Project presentations: Final presentations, Part I.** |
+|      | Friday, March 13       | **Project presentations: Final presentations, Part II.** |
 
 
 ## Materials
 
-There is no textbook for this course. Instead, I will periodically assign papers for you to read. 
+### Textbooks
 
-## Grading
+There is no *physical* textbook for this course. Instead, we will reference (and wherever necessary, modify/update) an [online, open-source curriculum book](https://geo-smart.github.io/mlgeo-book/).  
+
+Additionally, I will assign papers for you to read.
+
+### Technology
+
+As part of this course, you will need to write and run code, both in and out of the classroom. Therefore, I recommend that you bring a personal laptop to each class session. While you *could* use a tablet, doing so may pose technical difficulties. If you do not have a laptop, you should consider borrowing one from the [Student Technology Loan Program (STLP)](https://stlp.uw.edu).
+
+Since we will be using a University-provided Jupyter Hub instance for programming, your laptop (or tablet) does not need to be ``powerful". That is to say, as long as your device can a) connect to the internet and b) open text files, it will suffice for the purposes of this course.
+
+Any software we will be using in class will be free, open-source, and platform-independent. 
+
+## Use of generative AI, such as ChatGPT
+
+In this course, you **can** use AI as a programming tool. However, you **cannot** use AI as replacement for critical thinking. Furthermore, it is **unacceptable** to treat generative AI as an authoritative source (e.g., saying or writing "ChatGPT said XYZ..."). 
+
+Examples of acceptable uses of AI include:
+- Implementing code with agents.
+- Debugging or understanding your codebase.
+- Doing a literature search (note that you still have to read any paper that you cite).
+
+Examples of unacceptable AI use include:
+- Generating writing (even as a starting point!).
+- Using outputs without verification.
+
+*If* you use generative AI, you should a) acknowledge that fact somewhere (i.e., "Code in this repository was generated using Clauade") and b) provide me with a ```AI.md``` file that documents your use of AI (including any prompts you used). 
+
+## Grading --- 469
+
+| Element | Percentage |
+|---------|------------|
+| Readings | 25% |
+| Homework | 20% |
+| Final project | 35% |
+| In-class assignments | 20% | 
+
+## Grading --- 569
+
+| Element | Percentage |
+|---------|------------|
+| Readings | 15% |
+| Homework | 20% |
+| Final project | 45% |
+| In-class assignments | 20% | 
 
 ## Late work policy
 
@@ -92,13 +164,7 @@ Washington state law requires that UW develop a policy for the accommodation of 
 Academic honesty is vital to our scholarly community. The UW's Student Conduct Code (WAC 478-121) defines academic misconduct and outlines prohibited behaviors. <u>All work you submit must be your own, original work (or properly cited).</u> Cheating, plagiarism, and other forms of misrepresentation are serious offenses. Examples of academic misconduct include, but are not limited to: cheating on exams or assignments (e.g. using unauthorized notes or online answers), plagiarism (presenting someone else's work or ideas as your own without credit), unauthorized collaboration on individual work, falsifying data, or submitting the same work for multiple classes without permission. Uploading or sharing course materials or assignments to third-party study sites (e.g., Course Hero, Chegg) without instructor permission is also considered academic misconduct.
 
 By being enrolled in this course, you are expected to uphold these standards of integrity. If you are unsure about whether something might violate academic integrity, please ask me before proceeding. Any suspected cases of academic misconduct will be handled in accordance with UW policies and the College of the Environment's procedures. 
-
-### Use of generative artificial intelligence (AI) tools, such as ChatGPT
-
-The use of AI in coursework is an evolving area. 
-
-
-
+ 
 ### Use of course materials and copyright
 
 I provide course materials (lecture slides, notes, recordings, assignments, exams, etc.) for your personal use. <u>Please do not share or post any course materials online outside our class without explicit permission.</u> These materials are protected by U.S. copyright law and by University policy. This protection means you may not reproduce, distribute, upload, or sell class materials (including your own completed assignments or exam questions) on sites like Chegg, CourseHero, or public repositories. Unauthorized distribution of course content may violate academic conduct rules and may result in University disciplinary action. Sharing your own study notes with classmates is fine; posting instructor-provided materials to a public forum is not.
