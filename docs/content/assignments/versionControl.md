@@ -23,7 +23,7 @@ To practice the ```git``` operations we discussed in class.
 
 ## Notes
 
-In this case, you have *write* access to the repository. However, there will be times where you want to contribute to a project but lack the ability to modify the repository directly. In such cases, you should *fork*, create a branch, make changes, and then submit a pull request. 
+In this case, you have *write* access to the repository. However, there will be times where you want to contribute to a project but lack the ability to modify the repository directly. In such cases, you should *fork*, create a branch, make changes, and then submit a pull request. You are welcome to use this so-called ["fork and pull request"](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) workflow for this assignment (i.e., as opposed to cloning the repository directly). 
 
 ## Deadline
 
