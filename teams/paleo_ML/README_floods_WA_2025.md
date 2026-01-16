@@ -75,3 +75,8 @@ Create a dual-axis plot showing:
 2. **Error handling**: Use `raise_for_status()` to catch HTTP errors
 3. **Authentication**: Keep API tokens secure and never commit them to public repositories (this is not the case in this example)
 
+## Insights 
+These data (river gauge and precipitation) show a clear peak during mid december (december 11th), the precipitation data shows a build up before the discharge peak when the floods occurred.
+
+## Historical information context
+Looking at data from 2024 precipitation and river discharge for the same place, it is clear that decmber tends to be a month with high precipitation every year, but the 2025 events were more intense than in previous years.
