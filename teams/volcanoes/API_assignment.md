@@ -66,6 +66,18 @@ Streamflow data were retrieved using the USGS Water Services API:
   Stehekin River discharge (cfs)  
   <https://waterservices.usgs.gov/nwis/iv/>
 
+## What We Found
+Comparative Summary:
+Period 1 (2021-11-12 to 2021-11-19): 768 discharge records
+  Min discharge: 945.00 cfs
+  Max discharge: 14700.00 cfs
+  Mean discharge: 4823.23 cfs
+
+Period 2 (2025-12-10 to 2025-12-16): 672 discharge records
+  Min discharge: 2710.00 cfs
+  Max discharge: 21500.00 cfs
+  Mean discharge: 7298.12 cfs
+
 
 ## Conclusion
 The December 2025 hydrologic response near Stehekin was both intense and rapid compared to a prior major event. These characteristics, combined with post-fire watershed conditions, provide strong hydrologic support for the occurrence of debris flows during this period.
