@@ -4,22 +4,22 @@ In December 2025, heavy rain, falling over recently burned land, caused debris f
 
 ## Data Visualization
 
-! [Stehekin recipitation plot from 2024] (StehekinPrecip2024.png)
+![Stehekin recipitation plot from 2024](StehekinPrecip2024.png)
 *Figure 1: Daily precipitation from Stehekin, WA Dec 2024, NOAA
 
-! [Stehekin precipiation plot from 2025] (StehekinPrecip2025.png)
+![Stehekin precipiation plot from 2025](StehekinPrecip2025.png)
 *Figure 2: Daily precipitation from Stehekin, WA Dec 2025, NOAA
 
-! [Monroe precipitation plot from 2024] (MonroePrecip2024.png)
+![Monroe precipitation plot from 2024](MonroePrecip2024.png)
 *Figure 3: Daily precipitation from Monroe, WA Dec 2024, NOAA
 
-! [Monroe precipitation plot from 2025] (MonroePrecip2025.png)
+![Monroe precipitation plot from 2025](MonroePrecip2025.png)
 *Figure 4: Daily precipitation from Monroe, WA Dec 2025, NOAA
 
-! [Stehekin discharge Dec 2025] (StehekinDecDischarge.png)
+![Stehekin discharge Dec 2025](StehekinDecDischarge.png)
 *Figure 5: Daily stream gauge discharge Stehekin WA, Dec 2025, USGS
 
-! [Stehekin disharge 2025] (StehekinYearlyDischarge.png)
+![Stehekin disharge 2025](StehekinYearlyDischarge.png)
 *Figure 6: Monthly stream gauge disharge Stehekin WA, 2025, USGS
  
 # Steps 
@@ -38,3 +38,6 @@ In December 2025, heavy rain, falling over recently burned land, caused debris f
 
 # Stream Gauge (USGS)
 - https://api.waterdata.usgs.gov/ogcapi/v0/collections/daily?f=json&lang=en-US&monitoring_location_id=USGS-1245100&datetime=2025-12-01/2025-12-31&parameter_code=00060&statistic_id=0003 
+
+
+[def]: StehekinPrecip2024.png
