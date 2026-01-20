@@ -6,7 +6,7 @@ To visualize the relationship between these variables, multimodal data are pulle
 
 
 ## NOAA Precipitation Data
-Analyzing NOAA daily precipitation data from Stehekin, WA in December 2025, we see that two rainfall maxima occur: December 9-13 and December 16 (Fig. 1) Precipitation represents flux into the soil moisture system, but doesn't contain information about soil drainage, a second important constraint on debris flow triggering.
+Analyzing NOAA daily precipitation data from Stehekin, WA in December 2025, we see that two rainfall maxima occur: December 9-13 and December 17 (Fig. 1). Precipitation represents flux into the soil moisture system, but doesn't contain information about soil drainage, a second important constraint on debris flow triggering.
 
 ![Precipitation plot](stehekin_precipitation.png)
 *Figure 1: Daily precipitation measrues from Stehekin, WA show multiple maxima surrounding December 9-17.*
