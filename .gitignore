@@ -5,8 +5,9 @@
 docs/public
 docs/resources
 
-#local data
+#Hiding group volcanoes data files
 teams/volcanoes/data/*
+data/inclass/06.PCA/Volcanoes/data/
 
 #outputs
 teams/Submarine_Volcanoes/*/outputs
