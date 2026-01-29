@@ -7,7 +7,9 @@ docs/resources
 
 #Hiding group volcanoes data files
 teams/volcanoes/data/*
-data/inclass/06.PCA/Volcanoes/data/
+
+#Hiding group Andy_Matt data files
+data/inclass/06.PCA/Andy_Matt/data/*
 
 #outputs
 teams/Submarine_Volcanoes/*/outputs
