@@ -15,7 +15,7 @@ dataset (about 99%). Because this one variable dominated the PCA results, we rem
 variables were contributing to the patterns in the data.
 
 We mainly dropped these features because they were qualitative instead of quantitative, or because they were overwhelming the 
-PCA results.
+PCA results (i.e. explaining 99% of the variance).
 
 ---
 
@@ -42,7 +42,7 @@ geometric differences among glaciers.
 
 ## Summary
 
-PCA indicates that, after removing dominant and non-quantitative variables, the primary patterns in the dataset are controlled 
+PCA indicates that, after removing dominant and non-qualitative variables, the primary patterns in the dataset are controlled 
 by glacier orientation and glacier size. These two components describe the most important physical differences among glaciers in 
 the dataset.
 
